@@ -1,0 +1,11 @@
+# Visual Analytics Project Requirements
+
+## Software Requirements
+- **Tableau Desktop**: For opening and interacting with the Tableau file.
+  - Version: Tableau Desktop 2023.1
+- **Microsoft PowerPoint**: For viewing the presentation.
+
+
+## Python Environment 
+- Ensure Python 3.6 or above is installed.
+
